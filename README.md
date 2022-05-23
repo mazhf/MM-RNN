@@ -1,1 +1,1 @@
-# MM-RNN
+# MM-RNN: A MultiModal RNN Framework for Precipitation Nowcasting
